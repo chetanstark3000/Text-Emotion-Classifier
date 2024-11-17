@@ -52,8 +52,14 @@ Input a comment (e.g., "I feel extremely happy and content!").
 The app predicts the emotion: joy.
 
 
-
 Contributing:
 Feel free to fork this repository and make changes. Pull requests are welcome!
+
+
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
 
