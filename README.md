@@ -14,7 +14,7 @@ Python 3.7 or above
 pip (Python package manager)
 
 ## Clone the Repository
-git clone https://github.com/streamlit_app/text-emotion-classifier.git
+git clone (https://github.com/chetanstark3000/Text-Emotion-Classifier)
 cd text-emotion-classifier
 
 
